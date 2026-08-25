@@ -1,0 +1,6 @@
+{
+  "name": "Travel Blueprint",
+  "description": "Comprehensive destination travel guides, master itinerary blueprints, neighborhood stay selectors, dining guides, and transit logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
