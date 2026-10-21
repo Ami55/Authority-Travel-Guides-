@@ -1460,7 +1460,7 @@ export default function App() {
                   </button>
                 </div>
                 <p className="text-xs font-semibold text-stone-700">
-                  © 2026 Travel Blueprint Inc. Developed by Ami - SEO Girl. All rights reserved.
+                  © 2026 Travel Blueprint. Developed by <strong>SEO Girl - Ami</strong>. All rights reserved.
                 </p>
                 <p className="text-[11px] text-stone-400">
                   Authority Travel Guides & 360° Destination Blueprints • Spring 2026 Edition
